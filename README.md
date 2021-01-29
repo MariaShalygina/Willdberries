@@ -1,4 +1,4 @@
-# Willdberris  - Учебны проект в Glo Academy
+# Willdberris  - Учебный  проект в Glo Academy
 Выполнила проект - Мария Шалыгина
 ## В проекте исполльзовались языки:
 - HTML
