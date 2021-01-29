@@ -301,7 +301,7 @@ body {
 	}
 	}
 }
-@media (max-height: 992px) {
+@media (max-height: 576px) {
 	.slider-nav {
 		display: none;
 
